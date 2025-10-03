@@ -1,4 +1,7 @@
-## Hi there 👋
+## Olá, amigos! Eu sou o Wesley! 👋
+
+**Estudante de Engenharia da Computação**🎓
+**Desenvolvedor em Formação** (Python, Backend) 💻
 
 <!--
 **Wesley8612/Wesley8612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
