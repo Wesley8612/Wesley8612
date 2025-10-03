@@ -1,6 +1,8 @@
 ## Olá, amigos! Eu sou o Wesley! 👋
 
 **Estudante de Engenharia da Computação**🎓
+
+
 **Desenvolvedor em Formação** (Python, Backend) 💻
 
 <!--
