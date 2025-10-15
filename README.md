@@ -2,7 +2,7 @@
 
 **26 anos** ✌
 
-**Estudante de Engenharia da Computação**🎓
+**Estudante de Engenharia da Computação (Universidade Fumec)**🎓
 
 
 **Desenvolvedor em Formação** (Python, Backend) 💻
